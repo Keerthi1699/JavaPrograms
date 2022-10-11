@@ -4,7 +4,7 @@ class Mobile{
 	String type = "TouchScreen";
 	String company = "iPhone";
 	
-	void showDetails() {
+	void showDetails() {  
 		System.out.println("Company: "+company);
 		System.out.println("Type: "+type);
 	}
@@ -24,3 +24,6 @@ public class inheritance extends Mobile {
 	}
 
 }
+/*
+ 
+ */
